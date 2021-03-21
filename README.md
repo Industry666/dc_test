@@ -24,4 +24,5 @@ user@user:~$ python3 main.py
 
 user@user:~$ python3 main.py dir_name
 >>> ... information about creating files in dir_name ...
+>>> mini report
 
