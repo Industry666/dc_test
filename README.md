@@ -14,3 +14,13 @@
 brands.xlsx и products.xlsx - с основной информацией о товарах полученной через API.
 Так же в ней будет создана отдельная директория 'images' содержащая упорядоченные по id продукта именами картинок.
 Конечный вывод будет представлен мини отчетом.
+
+Пример использования
+Python 3.7.3 on linux
+
+user@user:~$ python3 main.py
+>>> main.py: error: the following arguments are required: name_of_directory
+
+user@user:~$ python3 main.py dir_name
+>>> ... information about creating files in dir_name ...
+
